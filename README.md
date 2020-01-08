@@ -29,3 +29,4 @@
 
 - 与18级严诗婷、郑伟炼同学合作完成的web数据交互项目
 - Pythonanywhere网址 [链接](http://siiting.pythonanywhere.com/)
+- jupyter notebook文本 [链接](http://nfunm094.gitee.io/iv_final/)
